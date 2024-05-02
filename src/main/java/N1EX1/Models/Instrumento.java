@@ -1,4 +1,4 @@
-package N1EX1;
+package N1EX1.Models;
 
 public abstract class Instrumento {
     // Atributos

@@ -1,6 +1,6 @@
-package N1EX1;
+package N1EX1.Models;
 
-public class Percusion extends Instrumento{
+public class Percusion extends Instrumento {
     //Constructor
     public Percusion(String nombre, double precio){
         super(nombre, precio);

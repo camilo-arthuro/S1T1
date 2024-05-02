@@ -1,6 +1,6 @@
-package N1EX1;
+package N1EX1.Models;
 
-public class Viento extends Instrumento{
+public class Viento extends Instrumento {
     // Constructor
     public Viento(String nombre, double precio){
         super(nombre, precio);

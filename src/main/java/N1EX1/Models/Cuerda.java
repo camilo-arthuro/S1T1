@@ -1,6 +1,6 @@
-package N1EX1;
+package N1EX1.Models;
 
-public class Cuerda extends Instrumento{
+public class Cuerda extends Instrumento {
     // Constructor
     public Cuerda(String nombre, double precio){
         super(nombre, precio);
